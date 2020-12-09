@@ -1,2 +1,4 @@
 DNSMaster 192.168.0.1
 192.168.0.104/24
+/var/named/forward.fedora.local forward zone file
+/var/named/reverse.fedora.local reverse zone file
